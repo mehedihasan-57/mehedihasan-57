@@ -1,16 +1,58 @@
-<h1 align="center">Hi 👋, I'm Md Mehedi Hasan Munna</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+# Hi, I'm Mehedi Hasan 👋
 
-- 🌱 I’m currently learning **React**
+### Frontend Developer 🚀
 
-- 📫 How to reach me **antropologsust123@gmail.com**
+I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
 
-- ⚡ Fun fact **I have adaptation quality**
+- 🌱 Currently working with **React & TypeScript**
+- 💻 Building projects to improve my frontend development skills
+- 🎯 Goal: Becoming a professional Frontend Developer
+- 🎓 Student at **Shahjalal University of Science and Technology (SUST)**
+- 🚀 Always learning, building, and improving
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/md.mehedi.hasan.663736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.mehedi.hasan.663736" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🛠️ Technologies & Tools
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 What I'm Working On
+
+- Building React applications
+- Improving my TypeScript skills
+- Learning modern frontend development
+- Building real-world projects
+- Exploring APIs and AI-powered web applications
+
+---
+
+## 📌 Featured Projects
+
+Here are some of the projects I'm currently working on:
+
+- 🌍 **Country Flags App** — React application
+- 🏏 **Player Card App** — React application
+- 💻 More projects coming soon...
+
+---
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehedihasan-57)
+
+---
+
+### ⚡ Keep Learning. Keep Building. Keep Growing.
